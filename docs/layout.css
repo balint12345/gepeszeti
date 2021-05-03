@@ -47,3 +47,11 @@ div.menu{
 	 top: 15%;
 	 width: 13%;
 }
+
+
+
+div.video{
+	position: absolute;
+	left: 20%;
+	top: 25%;
+}
