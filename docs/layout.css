@@ -59,11 +59,11 @@ div.tarolo {
 
 div.alkalmazkodo {
   position: absolute;
-  top: 10%;
+  top: 0;
   left: 0;
   bottom: 0;
   right: 0;
-  width: 45%;
-  height: 45%;
+  width: 100%;
+  height: 100%;
 }
 
