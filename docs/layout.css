@@ -43,7 +43,7 @@ div.cim{
 
 div.menu{
 	 position: absolute;
-     left: 80%;
+         left: 80%;
 	 top: 15%;
 	 width: 13%;
 }
@@ -53,8 +53,8 @@ div.menu{
 .container {
   position: relative;
   left: 20%;
-  top: 10%;
-  padding-top: 56%;
+  top: 0%;
+  padding-top: 50%;
 }
 
 
