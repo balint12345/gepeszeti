@@ -49,7 +49,7 @@ div.menu{
 }
 
 
-.tarolo {
+div.tarolo {
   position: relative;
   left: 20%;
   top: 10%;
@@ -57,7 +57,7 @@ div.menu{
 }
 
 
-.alkalmazkodo {
+div.alkalmazkodo {
   position: absolute;
   top: 10%;
   left: 0;
