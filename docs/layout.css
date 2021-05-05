@@ -49,9 +49,6 @@ div.menu{
 }
 
 
-
-div.video{
-	position: absolute;
-	left: 20%;
-	top: 25%;
-}
+<div class="tarolo">
+<iframe class="alkalmazkodo" autoplay=0 mute=0  src="https://www.youtube.com/embed/04kM6-7BQLc" >  </iframe>
+</div>
